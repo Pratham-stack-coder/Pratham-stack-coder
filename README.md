@@ -1,3 +1,4 @@
+![logo](https://github.com/Pratham-stack-coder/Pratham-stack-coder/blob/main/PRATHAM%20GUpta%20(1).png)
 <h1 align="center">Hi 👋, I'm Pratham Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
