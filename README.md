@@ -32,6 +32,6 @@
 </div>
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/competitive?username=Pratham-stack-coder&theme=github-dark&v=competitive-layout-2"/>
+<img src="https://www.gitskins.com/api/section/stats?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="Neon Divider"/>
 
 </div>
