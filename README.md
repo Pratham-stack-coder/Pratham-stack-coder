@@ -25,3 +25,8 @@
 <img src="https://www.gitskins.com/api/section/heatmap?username=Pratham-stack-coder&theme=github-dark&v=profile-preview-2&mode=dark" width="100%" alt="Neon Divider"/>
 
 </div>
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Pratham-stack-coder&theme=github-dark" width="100%" alt="Neon Divider"/>
+
+</div>
