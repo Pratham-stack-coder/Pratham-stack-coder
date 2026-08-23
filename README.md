@@ -30,3 +30,8 @@
 <img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Pratham-stack-coder&theme=github-dark" width="100%" alt="Neon Divider"/>
 
 </div>
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/competitive?username=Pratham-stack-coder&theme=github-dark&v=competitive-layout-2"/>
+
+</div>
