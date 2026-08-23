@@ -22,8 +22,7 @@
 
 <!-- PROJECTS — automatically generated from your GitHub repositories -->
 
-<img src="https://www.gitskins.com/api/section/projects?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="GitHub Projects"/>
-
+<img src="https://www.gitskins.com/api/section/projects?username=Pratham-stack-coder&theme=neon&v=profile-preview-3&mode=dark" width="100%">
 <br>
 
 <!-- CONTRIBUTION HEATMAP — automatically updates with contributions -->
