@@ -6,18 +6,6 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=Pratham-stack-coder&theme=neon" width="100%" alt="Neon Divider"/>
 
-</div>
-
-👨‍💻 About Me
-🤖 Aspiring AI Engineer
-🎓 B.Tech CSE (Artificial Intelligence)
-💻 Building intelligent systems and modern web applications
-🧠 Exploring AI, Machine Learning, LLMs and RAG
-🚀 Turning ideas into real-world projects
-📚 Currently strengthening DSA, AI Engineering and Full-Stack Development
-
-<div align="center">
-
 <img src="https://www.gitskins.com/api/readme-reference/focus?username=Pratham-stack-coder&theme=neon" width="100%" alt="Current Focus"/>
 
 </div>
