@@ -1,37 +1,45 @@
 <div align="center">
 
+<!-- HERO — automatically reflects your GitHub profile -->
+
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=Pratham-stack-coder&theme=neon" width="100%" alt="Pratham Gupta - Neon GitHub Hero"/>
 
 <br>
 
+<!-- DIVIDER -->
+
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=Pratham-stack-coder&theme=neon" width="100%" alt="Neon Divider"/>
+
+<!-- CURRENT FOCUS -->
 
 <img src="https://www.gitskins.com/api/readme-reference/focus?username=Pratham-stack-coder&theme=neon" width="100%" alt="Current Focus"/>
 
-</div>
+<br>
 
-<div align="center">
+<!-- DIVIDER -->
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=Pratham-stack-coder&theme=neon" width="100%" alt="Neon Divider"/>
 
-</div>
-<div align="center">
+<!-- PROJECTS — automatically generated from your GitHub repositories -->
 
-<img src="https://www.gitskins.com/api/section/projects?username=Pratham-stack-coder&theme=github-dark&v=profile-preview-2&mode=dark" width="100%" alt="Neon Divider"/>
+<img src="https://www.gitskins.com/api/section/projects?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="GitHub Projects"/>
 
-</div>
-<div align="center">
+<br>
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=Pratham-stack-coder&theme=github-dark&v=profile-preview-2&mode=dark" width="100%" alt="Neon Divider"/>
+<!-- CONTRIBUTION HEATMAP — automatically updates with contributions -->
 
-</div>
-<div align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="GitHub Contribution Heatmap"/>
 
-<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Pratham-stack-coder&theme=github-dark" width="100%" alt="Neon Divider"/>
+<br>
 
-</div>
-<div align="center">
+<!-- ACTIVITY GRAPH — automatically updates with GitHub activity -->
 
-<img src="https://www.gitskins.com/api/section/stats?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="Neon Divider"/>
+<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=Pratham-stack-coder&theme=neon" width="100%" alt="GitHub Activity Graph"/>
+
+<br>
+
+<!-- STATS — automatically updates with GitHub statistics -->
+
+<img src="https://www.gitskins.com/api/section/stats?username=Pratham-stack-coder&theme=neon&v=profile-preview-2&mode=dark" width="100%" alt="GitHub Statistics"/>
 
 </div>
